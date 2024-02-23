@@ -1,0 +1,69 @@
+[
+    {
+        "id" : 1,
+        "name": "Ichika Matsumoto",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.1mgpt.webp"
+    },
+    {
+        "id" : 2,
+        "name": "Mizuki Yayoi",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.2e12s.webp"
+    },
+    {
+        "id" : 3,
+        "name": "Mitsuki Nagisa",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.39ex4.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Misono Waka",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.3c8ty.webp"
+    },
+    {
+        "id" : 5,
+        "name": "Shinoda Yu",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.4en1s.webp"
+    },
+    {
+        "id" : 6,
+        "name": "Aoi Kururugi",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.5b4ax.webp"
+    },
+    {
+        "id" : 7,
+        "name": "Ruka Inaba",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.5hk9b.webp"
+    },
+    {
+        "id" : 8,
+        "name": "Hinako Mori",
+        "code": "",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.688ff.webp"
+    },
+    {
+        "id" : 9,
+        "name": "Natsu Tojo",
+        "code": "",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.7awii.webp"
+    },
+    {
+        "id" : 10,
+        "name": "Himari Kinoshita",
+        "code": "",
+        "img": "https://us-fbcloud.net/wb/data/1506/1506138-img.wanv7q.7chcm.webp"
+    },
+    {
+        "id" : 11,
+        "name": "MAKRAI PLASOM",
+        "code": "",
+        "img": "https://media.discordapp.net/attachments/557835128559108096/1209830986993639474/OKBETONG.jpg?ex=65e859e8&is=65d5e4e8&hm=8094914b1402f780c17dd259bdb67f76767b47ecb13075ab47a0f09927630c18&=&format=webp&width=353&height=640"
+    },
+    {
+        "id" : 12,
+        "name": "AoAo",
+        "code": "",
+        "img": "https://media.discordapp.net/attachments/557835128559108096/1209831393618567209/IMG_1312.png?ex=65e85a49&is=65d5e549&hm=a038e52cbbcbba7861e4443324894ab9792b9a62eb39fe34fb50950dc00af703&=&format=webp&quality=lossless&width=296&height=640"
+    }
+
+    
+]
