@@ -57,16 +57,6 @@ const Home = () => {
 
                 </div>
 
-                <div className="join pagination">
-                    <button className="join-item btn" >
-                        <a href="#" className="page-link">«</a>
-                    </button>
-                    <button className={`join-item btn`} >
-                        5
-                    </button>
-                    <button className="join-item btn">»</button>
-                </div>
-
             </>
         )
     }
